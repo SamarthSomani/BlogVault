@@ -1,0 +1,26 @@
+<!-- src/app/MyComponents/blogs-view/blogs-view.component.html -->
+<div class = "head-and-options">
+  <h2>Blog View</h2>
+  <div class="button-container">
+    <button (click)="createNew()" class="createNew">Create New</button>
+    <button (click)="Logout()" class="logout">Logout</button>
+  </div>
+  <div class="button-group">
+    <button (click)="showBlogs('my')">My Blogs</button>
+    <button (click)="showBlogs('all')">All Blogs</button>
+  </div>
+</div>
+<div class="blogs-display">
+  <div *ngIf="blogs.length > 0">
+    <h3 *ngIf="selectedView === 'my'">My Blogs</h3>
+    <h3 *ngIf="selectedView === 'all'">All Blogs</h3>
+    
+    <ul>
+      <li *ngFor="let blog of blogs">
+        <a (click)="viewBlog(blog.blogId)">{{ blog.title }}</a>
+        <p>{{ blog.name }}</p>
+      </li>
+    </ul>
+  </div>
+  <p *ngIf="blogs.length === 0">No blogs available.</p>
+</div>

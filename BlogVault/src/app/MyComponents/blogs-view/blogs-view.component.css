@@ -1,0 +1,80 @@
+.head-and-options {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 20px;
+  background-color: #f0f8ff;
+}
+.button-container {
+  display: flex;
+  justify-content: space-between;
+  width: 100%;
+  max-width: 600px;
+  margin-bottom: 20px; 
+}
+.button-container.button{
+    padding: 10px 20px;
+    font-size: 3em;
+    color: #fff;
+    border: 1;
+    border-radius: 15px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+    margin: 5px;
+}
+.createNew {
+  background-color: #3ef168; 
+}
+
+.createNew:hover {
+  background-color: #218838;
+}
+
+.logout {
+  background-color: #fa0921; 
+}
+
+.logout:hover {
+  background-color: #c82333;
+}
+
+/* src/app/MyComponents/blogs-view/blogs-view.component.css */
+
+.blogs-display ul {
+  list-style-type: none; /* Remove bullet points */
+  padding: 0; /* Remove padding */
+  margin: 0; /* Remove margin */
+  width: 100%;
+}
+
+.blogs-display li {
+  margin-bottom: 20px; /* Space between items */
+  padding: 15px; /* Padding inside each item */
+  border: 1px solid #ddd; /* Light border */
+  border-radius: 8px; /* Rounded corners */
+  background-color: #fff; /* White background */
+  transition: box-shadow 0.3s ease; /* Smooth transition for hover effect */
+}
+
+.blogs-display li:hover {
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Subtle shadow on hover */
+}
+
+.blogs-display a {
+  text-decoration: none; /* Remove underline */
+  color: #007bff; /* Link color */
+  font-size: 1.2em; /* Slightly larger text */
+  font-weight: bold; /* Bold text */
+}
+
+.blogs-display a:hover {
+  text-decoration: underline; /* Underline on hover */
+  cursor: pointer;
+}
+
+.blogs-display p {
+  font-size: 1em; /* Standard text size */
+  color: #666; /* Light gray text */
+  margin: 5px 0; /* Space above and below the paragraph */
+}
+

@@ -1,0 +1,6 @@
+@BlogVaultAPI_HostAddress = http://localhost:5116
+
+GET {{BlogVaultAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

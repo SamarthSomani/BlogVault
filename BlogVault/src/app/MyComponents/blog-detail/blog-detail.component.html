@@ -1,0 +1,34 @@
+<!-- src/app/MyComponents/blog-detail/blog-detail.component.html -->
+<div *ngIf="blogDetails">
+    <h2>{{ blogDetails.title }}</h2>
+    <p><strong>Author:</strong> {{ blogDetails.name }}</p>
+    <div *ngIf="blogDetails && totalRatingsCount > 0">
+      <p>
+        Current Rating: {{ averageRating }} stars
+        ({{ totalRatingsCount }} ratings)
+      </p>
+    </div>
+    <p>{{ blogDetails.content }}</p>
+
+    <form (ngSubmit)="submitRating()">
+      <label for="rating">Rate this blog:</label>
+    <select id="rating" name="rating" [(ngModel)]="userRating">
+        <option value="1">1</option>
+        <option value="2">2</option>
+        <option value="3">3</option>
+        <option value="4">4</option>
+        <option value="5">5</option>
+    </select>
+      <button type="submit">Submit Rating</button>
+    </form>
+    
+    <button (click)="goBack()">Back to Blogs</button>
+    <button *ngIf = "hasAccess" (click)="onDeleteBlog()">Delete</button>
+  </div>
+
+  <div>
+    <app-comment
+    [blogId]="this.blogId"
+  ></app-comment>
+  </div>
+  

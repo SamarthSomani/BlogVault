@@ -1,0 +1,19 @@
+<!-- src/app/MyComponents/comment/comment.component.html -->
+<div class="comments-section">
+    <h3>Comments</h3>
+    <div *ngFor="let comment of comments">
+      <p><strong>{{ comment.username }}</strong> ({{ comment.dateTime }}):</p>
+      <p>{{ comment.content }}</p>
+    </div>
+  
+    <form (ngSubmit)="addComment()">
+      <textarea
+        [(ngModel)]="newCommentContent"
+        name="newCommentContent"
+        placeholder="Add a comment"
+        required
+      ></textarea>
+      <button type="submit">Submit</button>
+    </form>
+  </div>
+  

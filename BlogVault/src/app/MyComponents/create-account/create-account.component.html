@@ -1,0 +1,21 @@
+<!-- src/app/MyComponents/login-page/login-page.component.html -->
+<div class="login-container">
+    <h2>Create Account</h2>
+    <form (ngSubmit)="createAccount()" #loginForm="ngForm">
+      <div>
+        <label for="username">Username:</label>
+        <input type="text" id="username" [(ngModel)]="accountData.username" name="username" required>
+      </div>
+      <div>
+        <label for="name">Name:</label>
+        <input type="text" id="name" [(ngModel)]="accountData.name" name="username" required>
+      </div>
+      <div>
+        <label for="password">Password:</label>
+        <input type="password" id="password" [(ngModel)]="accountData.password" name="password" required>
+      </div>
+      <button type="submit">Create Account</button>
+    </form>
+    <p *ngIf="errorMessage">{{ errorMessage }}</p>
+  </div>
+  

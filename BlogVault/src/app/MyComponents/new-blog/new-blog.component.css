@@ -1,0 +1,81 @@
+/* src/app/MyComponents/new-blog/new-blog.component.css */
+
+/* Container styles */
+div {
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #f9f9f9;
+    border-radius: 10px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+/* Header styles */
+h2 {
+    font-size: 2em;
+    margin-bottom: 20px;
+    color: #333;
+    text-align: center;
+}
+
+/* Form styles */
+form {
+    display: flex;
+    flex-direction: column;
+    gap: 1em;
+}
+
+/* Label styles */
+label {
+    font-size: 1em;
+    color: #555;
+    margin-bottom: 0.5em;
+}
+
+/* Input and Textarea styles */
+input[type="text"],
+textarea {
+    width: 100%;
+    padding: 0.75em;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    font-size: 1em;
+    box-sizing: border-box;
+    transition: border-color 0.3s ease;
+}
+
+input[type="text"]:focus,
+textarea:focus {
+    border-color: #007bff;
+    outline: none;
+}
+
+/* Textarea specific styles */
+textarea {
+    height: 150px;
+    resize: both;
+}
+
+/* Button styles */
+button {
+    padding: 0.75em 1.5em;
+    font-size: 1em;
+    color: #fff;
+    background-color: #007bff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+    align-self: flex-start;
+}
+
+button:hover {
+    background-color: #0056b3;
+}
+
+/* Message styles */
+p {
+    font-size: 1em;
+    color: #28a745;
+    margin-top: 1em;
+    text-align: center;
+}

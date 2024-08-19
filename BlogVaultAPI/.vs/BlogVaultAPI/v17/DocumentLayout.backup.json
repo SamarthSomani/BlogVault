@@ -1,0 +1,185 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Angular Project\\BlogVaultAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{074EA972-AC7F-45CE-8D32-A847DD57A253}|BlogVaultAPI\\BlogVaultAPI.csproj|d:\\angular project\\blogvaultapi\\blogvaultapi\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{074EA972-AC7F-45CE-8D32-A847DD57A253}|BlogVaultAPI\\BlogVaultAPI.csproj|solutionrelative:blogvaultapi\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{074EA972-AC7F-45CE-8D32-A847DD57A253}|BlogVaultAPI\\BlogVaultAPI.csproj|d:\\angular project\\blogvaultapi\\blogvaultapi\\services\\shaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{074EA972-AC7F-45CE-8D32-A847DD57A253}|BlogVaultAPI\\BlogVaultAPI.csproj|solutionrelative:blogvaultapi\\services\\shaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{074EA972-AC7F-45CE-8D32-A847DD57A253}|BlogVaultAPI\\BlogVaultAPI.csproj|d:\\angular project\\blogvaultapi\\blogvaultapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{074EA972-AC7F-45CE-8D32-A847DD57A253}|BlogVaultAPI\\BlogVaultAPI.csproj|solutionrelative:blogvaultapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{074EA972-AC7F-45CE-8D32-A847DD57A253}|BlogVaultAPI\\BlogVaultAPI.csproj|d:\\angular project\\blogvaultapi\\blogvaultapi\\controllers\\blogscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{074EA972-AC7F-45CE-8D32-A847DD57A253}|BlogVaultAPI\\BlogVaultAPI.csproj|solutionrelative:blogvaultapi\\controllers\\blogscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{074EA972-AC7F-45CE-8D32-A847DD57A253}|BlogVaultAPI\\BlogVaultAPI.csproj|d:\\angular project\\blogvaultapi\\blogvaultapi\\models\\addratingdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{074EA972-AC7F-45CE-8D32-A847DD57A253}|BlogVaultAPI\\BlogVaultAPI.csproj|solutionrelative:blogvaultapi\\models\\addratingdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{074EA972-AC7F-45CE-8D32-A847DD57A253}|BlogVaultAPI\\BlogVaultAPI.csproj|d:\\angular project\\blogvaultapi\\blogvaultapi\\models\\blogviewdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{074EA972-AC7F-45CE-8D32-A847DD57A253}|BlogVaultAPI\\BlogVaultAPI.csproj|solutionrelative:blogvaultapi\\models\\blogviewdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{074EA972-AC7F-45CE-8D32-A847DD57A253}|BlogVaultAPI\\BlogVaultAPI.csproj|d:\\angular project\\blogvaultapi\\blogvaultapi\\models\\blogdetailsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{074EA972-AC7F-45CE-8D32-A847DD57A253}|BlogVaultAPI\\BlogVaultAPI.csproj|solutionrelative:blogvaultapi\\models\\blogdetailsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{074EA972-AC7F-45CE-8D32-A847DD57A253}|BlogVaultAPI\\BlogVaultAPI.csproj|d:\\angular project\\blogvaultapi\\blogvaultapi\\models\\blog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{074EA972-AC7F-45CE-8D32-A847DD57A253}|BlogVaultAPI\\BlogVaultAPI.csproj|solutionrelative:blogvaultapi\\models\\blog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{074EA972-AC7F-45CE-8D32-A847DD57A253}|BlogVaultAPI\\BlogVaultAPI.csproj|d:\\angular project\\blogvaultapi\\blogvaultapi\\models\\addcommentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{074EA972-AC7F-45CE-8D32-A847DD57A253}|BlogVaultAPI\\BlogVaultAPI.csproj|solutionrelative:blogvaultapi\\models\\addcommentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{074EA972-AC7F-45CE-8D32-A847DD57A253}|BlogVaultAPI\\BlogVaultAPI.csproj|d:\\angular project\\blogvaultapi\\blogvaultapi\\models\\loginrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{074EA972-AC7F-45CE-8D32-A847DD57A253}|BlogVaultAPI\\BlogVaultAPI.csproj|solutionrelative:blogvaultapi\\models\\loginrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SHAService.cs",
+              "DocumentMoniker": "D:\\Angular Project\\BlogVaultAPI\\BlogVaultAPI\\Services\\SHAService.cs",
+              "RelativeDocumentMoniker": "BlogVaultAPI\\Services\\SHAService.cs",
+              "ToolTip": "D:\\Angular Project\\BlogVaultAPI\\BlogVaultAPI\\Services\\SHAService.cs",
+              "RelativeToolTip": "BlogVaultAPI\\Services\\SHAService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAcAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T11:30:31.755Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AddRatingDto.cs",
+              "DocumentMoniker": "D:\\Angular Project\\BlogVaultAPI\\BlogVaultAPI\\Models\\AddRatingDto.cs",
+              "RelativeDocumentMoniker": "BlogVaultAPI\\Models\\AddRatingDto.cs",
+              "ToolTip": "D:\\Angular Project\\BlogVaultAPI\\BlogVaultAPI\\Models\\AddRatingDto.cs",
+              "RelativeToolTip": "BlogVaultAPI\\Models\\AddRatingDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T08:40:47.024Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BlogViewDto.cs",
+              "DocumentMoniker": "D:\\Angular Project\\BlogVaultAPI\\BlogVaultAPI\\Models\\BlogViewDto.cs",
+              "RelativeDocumentMoniker": "BlogVaultAPI\\Models\\BlogViewDto.cs",
+              "ToolTip": "D:\\Angular Project\\BlogVaultAPI\\BlogVaultAPI\\Models\\BlogViewDto.cs",
+              "RelativeToolTip": "BlogVaultAPI\\Models\\BlogViewDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-17T13:19:12.19Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BlogsController.cs",
+              "DocumentMoniker": "D:\\Angular Project\\BlogVaultAPI\\BlogVaultAPI\\Controllers\\BlogsController.cs",
+              "RelativeDocumentMoniker": "BlogVaultAPI\\Controllers\\BlogsController.cs",
+              "ToolTip": "D:\\Angular Project\\BlogVaultAPI\\BlogVaultAPI\\Controllers\\BlogsController.cs",
+              "RelativeToolTip": "BlogVaultAPI\\Controllers\\BlogsController.cs",
+              "ViewState": "AgIAADUBAAAAAAAAAAAEwDgBAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T06:21:08.675Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "D:\\Angular Project\\BlogVaultAPI\\BlogVaultAPI\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "BlogVaultAPI\\Controllers\\UsersController.cs",
+              "ToolTip": "D:\\Angular Project\\BlogVaultAPI\\BlogVaultAPI\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "BlogVaultAPI\\Controllers\\UsersController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-17T10:16:17.858Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Blog.cs",
+              "DocumentMoniker": "D:\\Angular Project\\BlogVaultAPI\\BlogVaultAPI\\Models\\Blog.cs",
+              "RelativeDocumentMoniker": "BlogVaultAPI\\Models\\Blog.cs",
+              "ToolTip": "D:\\Angular Project\\BlogVaultAPI\\BlogVaultAPI\\Models\\Blog.cs",
+              "RelativeToolTip": "BlogVaultAPI\\Models\\Blog.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-17T10:42:00.58Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BlogDetailsDto.cs",
+              "DocumentMoniker": "D:\\Angular Project\\BlogVaultAPI\\BlogVaultAPI\\Models\\BlogDetailsDto.cs",
+              "RelativeDocumentMoniker": "BlogVaultAPI\\Models\\BlogDetailsDto.cs",
+              "ToolTip": "D:\\Angular Project\\BlogVaultAPI\\BlogVaultAPI\\Models\\BlogDetailsDto.cs",
+              "RelativeToolTip": "BlogVaultAPI\\Models\\BlogDetailsDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-17T18:01:46.071Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AddCommentDto.cs",
+              "DocumentMoniker": "D:\\Angular Project\\BlogVaultAPI\\BlogVaultAPI\\Models\\AddCommentDto.cs",
+              "RelativeDocumentMoniker": "BlogVaultAPI\\Models\\AddCommentDto.cs",
+              "ToolTip": "D:\\Angular Project\\BlogVaultAPI\\BlogVaultAPI\\Models\\AddCommentDto.cs",
+              "RelativeToolTip": "BlogVaultAPI\\Models\\AddCommentDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-17T17:33:33.79Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "LoginRequestDto.cs",
+              "DocumentMoniker": "D:\\Angular Project\\BlogVaultAPI\\BlogVaultAPI\\Models\\LoginRequestDto.cs",
+              "RelativeDocumentMoniker": "BlogVaultAPI\\Models\\LoginRequestDto.cs",
+              "ToolTip": "D:\\Angular Project\\BlogVaultAPI\\BlogVaultAPI\\Models\\LoginRequestDto.cs",
+              "RelativeToolTip": "BlogVaultAPI\\Models\\LoginRequestDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-17T12:37:52.926Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Angular Project\\BlogVaultAPI\\BlogVaultAPI\\Program.cs",
+              "RelativeDocumentMoniker": "BlogVaultAPI\\Program.cs",
+              "ToolTip": "D:\\Angular Project\\BlogVaultAPI\\BlogVaultAPI\\Program.cs",
+              "RelativeToolTip": "BlogVaultAPI\\Program.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAEwD0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-17T10:52:15.753Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
